@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city">Cidade</string>
+    <string name="date">Data</string>
+    <string name="temperature">Temperatura</string>
+    <string name="temp">20°</string>
+    <string name="sensation">Sensação: 20°</string>
+</resources>
